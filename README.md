@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+* Name: Nguyễn Hải Phú
+* Student ID: 2410780
